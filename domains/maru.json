@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "tatsu6153622",
+        "email": "tfti0624@gmail.com"
+    },
+    "record": {
+        "NS": [
+            "hal.ns.cloudflare.com",
+            "magali.ns.cloudflare.com"
+        ]
+    }
+}
